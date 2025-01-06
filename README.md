@@ -1,6 +1,6 @@
 # HR-Summary-and-Details-DB-Tableau
 
-Here’s a revised README for the *HR Overview Dashboard* that emphasizes its value from the perspective of stakeholders, HR managers, and HR executives. This version highlights how the dashboard addresses specific challenges faced in HR decision-making.
+Here’s a README for the *HR Overview Dashboard* that emphasizes its value from the perspective of stakeholders, HR managers, and HR executives. This version highlights how the dashboard addresses specific challenges faced in HR decision-making.
 
 ---
 
@@ -69,11 +69,9 @@ The dashboard includes dynamic filters that allow users to customize their data 
 ## Requirements
 - Tableau Desktop Public Edition or higher.
 
-## License
-This project is licensed under the MIT License—see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-Special thanks to the HR team for providing valuable data and insights that made this dashboard possible.
+## Quick Access
+- Here's a quick access to the dashboard link:
+https://shorturl.at/6o8sK
 
 ---
 
