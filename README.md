@@ -4,10 +4,10 @@ Here’s a README for the *HR Overview Dashboard* that emphasizes its value from
 
 ---
 
-# HR Overview Dashboard Readme
+# HR Summary Dashboard Readme
 
 ## Overview
-This repository contains the *HR Overview Dashboard*, a powerful Tableau tool designed to provide a comprehensive view of human resource metrics. The dashboard is interactive and features dynamic filters for gender, status, location, and hire date, enabling users to tailor the data view to their specific needs. This functionality is essential for HR managers and executives seeking to make informed decisions based on real-time data insights.
+This repository contains the *HR Summary Dashboard*, a powerful Tableau tool designed to provide a comprehensive view of human resource metrics. The dashboard is interactive and features dynamic filters for gender, status, location, and hire date, enabling users to tailor the data view to their specific needs. This functionality is essential for HR managers and executives seeking to make informed decisions based on real-time data insights.
 
 ## Challenges Addressed
 1. *Limited Visibility into Employee Metrics*: HR managers often struggle to obtain a clear overview of key employee metrics. This dashboard consolidates critical information, allowing for quick assessments of workforce health and dynamics.
@@ -53,7 +53,7 @@ The dashboard includes dynamic filters that allow users to customize their data 
 - Location: Filter by location (multiple values).
 - Hire Date: Filter by hire date (all).
 
-Here’s a revised README for the **Human Resource Dashboard** that emphasizes the challenges faced by stakeholders, HR managers, and HR executives, along with how the dashboard effectively resolves these issues.
+Here’s a README for the **Human Resource Dashboard** that emphasizes the challenges faced by stakeholders, HR managers, and HR executives, along with how the dashboard effectively resolves these issues.
 
 ---
 
