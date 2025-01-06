@@ -152,7 +152,7 @@ This version emphasizes how the dashboard resolves specific challenges faced by 
 
 ## Quick Access
 - Here's a quick access to the dashboard link:
-https://shorturl.at/6o8sK
+https://shorturl.at/10Vxt
 
 ---
 
