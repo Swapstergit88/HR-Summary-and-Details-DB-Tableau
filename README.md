@@ -53,6 +53,10 @@ The dashboard includes dynamic filters that allow users to customize their data 
 - Location: Filter by location (multiple values).
 - Hire Date: Filter by hire date (all).
 
+## HR Summary Screenshot
+![HR  Summary](https://github.com/user-attachments/assets/f61730df-2da4-424c-a7b0-998ac63e2a56)
+
+
 Here’s a README for the **Human Resource Dashboard** that emphasizes the challenges faced by stakeholders, HR managers, and HR executives, along with how the dashboard effectively resolves these issues.
 
 ---
@@ -126,6 +130,10 @@ The dashboard displays detailed information for each employee:
 - **Data-Driven Decisions**: Equips HR managers and executives with actionable insights necessary for informed decision-making regarding workforce management.
 - **Efficiency Gains**: Streamlines access to critical employee data, significantly reducing time spent on manual analysis.
 - **Customization Options**: Empowers users to tailor their data views based on specific criteria relevant to their strategic goals.
+
+## HR Details Screenshot
+![HR  Details](https://github.com/user-attachments/assets/d5727682-0a49-4103-a828-5054cde876f8)
+
 
 ## Conclusion
 The **Human Resource Details Dashboard** is an essential tool for managing and analyzing employee data effectively. By addressing key challenges faced by HR professionals, it offers a user-friendly interface with comprehensive filtering options that enhance decision-making capabilities for HR managers and executives alike.
