@@ -154,6 +154,10 @@ This version emphasizes how the dashboard resolves specific challenges faced by 
 - Here's a quick access to the dashboard link:
 https://shorturl.at/10Vxt
 
+Feel free to use and modify this README as needed! If you have any more questions or need further adjustments, please let me know.
+
+Contact Information: Swapnil Kakade
+Email: connectinglobe7@gmail.com
 ---
 
 This version emphasizes how the HR Overview Dashboard addresses specific challenges faced by stakeholders in human resources while providing actionable insights that support effective decision-making.
