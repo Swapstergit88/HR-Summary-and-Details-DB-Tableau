@@ -60,7 +60,7 @@ Here’s a README for the **Human Resource Dashboard** that emphasizes the chall
 # Human Resource Details Dashboard
 
 ## Overview
-The **Human Resource Dashboard** is a strategic tool designed to provide HR managers and executives with a comprehensive overview of employee data. This dashboard addresses critical challenges in workforce management by enabling users to filter and analyze various aspects of the workforce, including demographics, roles, geographics, salaries, employment status, and tenure. Its interactive and user-friendly interface ensures that stakeholders can easily access and interpret vital HR metrics.
+The **Human Resource Details Dashboard** is a strategic tool designed to provide HR managers and executives with a comprehensive overview of employee data. This dashboard addresses critical challenges in workforce management by enabling users to filter and analyze various aspects of the workforce, including demographics, roles, geographics, salaries, employment status, and tenure. Its interactive and user-friendly interface ensures that stakeholders can easily access and interpret vital HR metrics.
 
 ## Challenges Addressed
 1. **Limited Visibility into Employee Data**: HR managers often struggle to obtain a holistic view of employee metrics. This dashboard consolidates essential information, allowing for quick assessments of workforce demographics and performance.
@@ -128,7 +128,7 @@ The dashboard displays detailed information for each employee:
 - **Customization Options**: Empowers users to tailor their data views based on specific criteria relevant to their strategic goals.
 
 ## Conclusion
-The **Human Resource Dashboard** is an essential tool for managing and analyzing employee data effectively. By addressing key challenges faced by HR professionals, it offers a user-friendly interface with comprehensive filtering options that enhance decision-making capabilities for HR managers and executives alike.
+The **Human Resource Details Dashboard** is an essential tool for managing and analyzing employee data effectively. By addressing key challenges faced by HR professionals, it offers a user-friendly interface with comprehensive filtering options that enhance decision-making capabilities for HR managers and executives alike.
 
 --- 
 
