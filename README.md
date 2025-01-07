@@ -1,6 +1,6 @@
 # HR-Summary-and-Details-DB-Tableau
 
-Here’s a README for the *HR Overview Dashboard* that emphasizes its value from the perspective of stakeholders, HR managers, and HR executives. This version highlights how the dashboard addresses specific challenges faced in HR decision-making.
+Here’s a README for the *HR Summary Dashboard* that emphasizes its value from the perspective of stakeholders, HR managers, and HR executives. This version highlights how the dashboard addresses specific challenges faced in HR decision-making.
 
 ---
 
