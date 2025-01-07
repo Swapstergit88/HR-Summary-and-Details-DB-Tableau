@@ -23,7 +23,7 @@ This repository contains the *HR Summary Dashboard*, a powerful Tableau tool des
 6. *Geographical Distribution Insights*: For organizations with multiple locations, understanding employee distribution is vital for resource allocation. The geographical map feature visualizes this distribution effectively.
 
 ## Dashboard Components
-The *HR Overview Dashboard* includes the following sections and charts:
+The *HR Summary Dashboard* includes the following sections and charts:
 
 1. *Overview*:
    - Active Employees: Displays the total number of active employees (7,984), providing a snapshot of current workforce size.
